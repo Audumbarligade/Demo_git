@@ -1,0 +1,8 @@
+// normal array concat() method
+let arr = [1,2,3];
+let arr2 = [4,5];
+
+arr = arr.concat(arr2);
+
+console.log(arr); // [ 1, 2, 3, 4, 5 ]
+
