@@ -1,0 +1,8 @@
+class person {
+consstroctor(name){
+this.name1=name;
+
+}
+
+}
+console.log();
