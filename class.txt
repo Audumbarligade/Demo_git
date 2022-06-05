@@ -4,3 +4,7 @@ class Car {
     this.year = year;
   }
 }
+
+
+
+javascript es6 is possible to for react js
