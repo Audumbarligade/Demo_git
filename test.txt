@@ -6,3 +6,6 @@ this.name1=name;
 
 }
 console.log();
+
+
+addeing changes into file*
