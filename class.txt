@@ -8,3 +8,7 @@ class Car {
 
 
 javascript es6 is possible to for react js
+
+
+
+new concept add into js class inheritance etc...
