@@ -12,3 +12,24 @@ javascript es6 is possible to for react js
 
 
 new concept add into js class inheritance etc...
+
+
+ class student {
+               constructor(name,age){
+                   this.name=name;
+                   this.age=age;
+               }
+                hello(){
+                   console.log(`hello ${this.name} `)
+               }
+           }
+           
+
+           let s = new student ('viraj', 26);
+           console.log(s.name);
+           console.log(s.age);
+           s.hello();  
+              
+            
+
+
