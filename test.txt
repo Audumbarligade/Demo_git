@@ -11,3 +11,22 @@ console.log();
 addeing changes into file*
 test file is complete..... is done
 
+
+
+proxy.....
+
+  let student ={
+               age :26,
+               name:'aditya'
+           }
+           const handler ={
+               get: function(obj,prop){
+                   return obj[prop] ? obj[prop] : 'property does not exitsist';
+               }
+           }
+
+           const proxy= new Proxy(student,handler);
+           console.log(proxy.name);
+           console.log(proxy.age);
+           console.log(proxy.class);
+        <
