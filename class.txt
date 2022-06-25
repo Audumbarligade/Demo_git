@@ -1,3 +1,10 @@
+
+i am class 
+the very easy concept of class 
+
+
+
+
 class Car {
   constructor(name, year) {
     this.name = name;
