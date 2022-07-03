@@ -36,6 +36,9 @@ new concept add into js class inheritance etc...
            console.log(s.name);
            console.log(s.age);
            s.hello();  
+           
+           
+           concept s complate....
               
             
 
