@@ -39,6 +39,10 @@ new concept add into js class inheritance etc...
            
            
            concept s complate....
+           
+          class student {
+          
+          }
               
             
 
