@@ -38,12 +38,15 @@ new concept add into js class inheritance etc...
            s.hello();  
            
            
-           concept s complate....
+           concept s complate....okk
            
           class student {
           this.name
           
           }
+          
+          
+          
               
             
 
