@@ -1,4 +1,4 @@
-// parent class
+// parent class  i m react js devlaper
 class Person { 
     constructor(name) {
         this.name = name;
