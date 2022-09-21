@@ -6,5 +6,5 @@ class Car {
 }
 
 
-
+okk im very good in js and react
 javascript es6 is possible to for react js
